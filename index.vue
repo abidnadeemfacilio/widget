@@ -147,7 +147,7 @@
 </template>
 
 <script>
-import spinner from "../../components/spinner.vue";
+import spinner from "spinner.vue";
 import moment from "moment-timezone";
 export default {
   data() {
